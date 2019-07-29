@@ -6,7 +6,7 @@
   Destinations=""
   ShowMadCapBacklink="true"
   GlossaryTermConversion="marked"
-  Skin="/Project/Skins/HTML5 - Side Navigation.flskn">
+  Skin="/Project/Skins/HTML5 - Top Navigation.flskn">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"

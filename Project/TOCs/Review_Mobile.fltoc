@@ -2,26 +2,8 @@
 <CatapultToc
   Version="1">
   <TocEntry
-    Title="test">
-    <TocEntry
-      Title="New TOC Book">
-      <TocEntry
-        Title="New Entry" />
-    </TocEntry>
-    <TocEntry
-      Title="New TOC Book">
-      <TocEntry
-        Title="New Entry" />
-    </TocEntry>
+    Title="New TOC Book">
     <TocEntry
       Title="New Entry" />
-    <TocEntry
-      Title="New entry">
-      <TocEntry
-        Title="New entry" />
-    </TocEntry>
   </TocEntry>
-  <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/Topic.htm" />
 </CatapultToc>
