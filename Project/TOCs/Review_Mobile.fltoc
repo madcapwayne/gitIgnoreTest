@@ -5,6 +5,11 @@
     Title="test">
     <TocEntry
       Title="New Entry" />
+    <TocEntry
+      Title="New entry">
+      <TocEntry
+        Title="New entry" />
+    </TocEntry>
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
