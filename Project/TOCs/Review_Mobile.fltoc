@@ -2,8 +2,5 @@
 <CatapultToc
   Version="1">
   <TocEntry
-    Title="New TOC Book">
-    <TocEntry
-      Title="New Entry" />
-  </TocEntry>
+    Title="New TOC Book"></TocEntry>
 </CatapultToc>
